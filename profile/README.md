@@ -7,7 +7,7 @@
 
 This page outlines shared development practices across UC3 repositories. These guidelines establish a consistent baseline for how we build, review, deploy, and operate our services.
 
-For broader context, see our [UC3 Product Development Practices](https://uc3.cdlib.org/our-work/uc3-product-development-approach/).
+For broader context, see our [UC3 Product Development Approach](https://uc3.cdlib.org/our-work/uc3-product-development-approach/).
 
 ---
 
