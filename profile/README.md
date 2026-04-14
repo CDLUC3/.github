@@ -124,8 +124,6 @@ When migrating EC2-based services to ECS:
 ## Related Resources
 
 * [UC3 Product Development Practices](https://uc3.cdlib.org/our-work/uc3-product-development-approach/)
-* Team-specific charters (where applicable)
-* Infrastructure and deployment documentation
 
 
 
