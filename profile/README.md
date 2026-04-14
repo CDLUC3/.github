@@ -56,36 +56,7 @@ For broader context, see our [UC3 Product Development Practices](https://uc3.cdl
 
 ### Release Template
 
-Use the standard release template:
-
-```md
-### Overview of Release
-
-### Service(s)
--
-
-### Github Issue Link(s)
--
-
-### Environments Affected
--
-
-### Source Code
-Link(s) to tagged release(s)
-
-### Source Code Tag
--
-
-### Deployment Steps
-- [ ] Step 1
-- [ ] Step 2
-
-### Infrastructure Changes
-(SSM, ALB, ECS, EFS, etc.)
-
-### Rollback Instructions
--
-````
+Use the standard release template: https://github.com/CDLUC3/.github/blob/main/ISSUE_TEMPLATE/release.md
 
 ---
 
