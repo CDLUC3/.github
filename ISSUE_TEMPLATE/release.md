@@ -1,3 +1,11 @@
+---
+name: Release
+about: Create a release for deployment
+title: "[RELEASE] "
+labels: release
+assignees: ''
+
+---
 ### Overview of Release
 
 ### Service(s)
