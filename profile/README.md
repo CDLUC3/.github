@@ -46,6 +46,10 @@ For broader context, see our [UC3 Product Development Approach](https://uc3.cdli
 
 ---
 
+## Security Practices
+
+- All product teams adhere to [UC3 Security practices](docs/security-practices.md)
+
 ## Deployment & Releases
 
 ### General Guidelines
