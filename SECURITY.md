@@ -16,3 +16,5 @@ Please include:
 - any proposed remediation details, if available
 
 We will try to acknowledge receipt promptly and follow up with next steps.
+
+UC3 services adhere to [UC3's Security Practices](https://github.com/CDLUC3/.github/blob/main/docs/security-practices.md).
