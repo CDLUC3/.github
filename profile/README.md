@@ -48,7 +48,7 @@ For broader context, see our [UC3 Product Development Approach](https://uc3.cdli
 
 ## Security Practices
 
-- All product teams adhere to [UC3 Security practices](docs/security-practices.md)
+- All product teams adhere to [UC3 Security practices](https://github.com/CDLUC3/.github/blob/main/docs/security-practices.md)
 
 ---
 
