@@ -39,6 +39,7 @@ UC3 employs a risk-based vulnerability management program that combines automate
   - EC2 instances
   - containers
   - BitSight notifications
+    
 Findings are assigned to responsible service teams, tracked, acknowledged, and given revisit dates until remediation is complete.
 ## Monthly infrastructure health reviews
 - AWS HouseKeeper reports are reviewed each month, with findings distributed to the appropriate service teams for remediation.
