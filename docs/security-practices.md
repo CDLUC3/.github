@@ -2,7 +2,9 @@
 
 UC3 maintains the security of its services through a structured vulnerability management process that combines automated patching, regular reviews, and lifecycle management of third-party software.
 
-Key practices include:
+UC3 employs a risk-based vulnerability management program that combines automated monthly operating system patching with recurring reviews of third-party software, application dependencies, and cloud infrastructure. We maintain an inventory of deployed software versions, monitor security advisories and end-of-life notices, review dependency health for each application, and use automated security scanning to identify vulnerabilities across EC2 instances and containers. Findings are tracked to resolution through our engineering workflow, with critical vulnerabilities prioritized for expedited remediation while routine updates are addressed during scheduled maintenance cycles.
+
+**Key practices include:**
 
 ## Monthly operating system patching
 - Linux (Amazon Linux) packages installed through the distribution repositories are updated as part of a recurring monthly operating system patch cycle.
