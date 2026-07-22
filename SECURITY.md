@@ -14,6 +14,7 @@ Please include:
 - steps to reproduce
 - potential impact
 - any proposed remediation details, if available
+- affected repository URL, if available
 
 We will try to acknowledge receipt promptly and follow up with next steps.
 
