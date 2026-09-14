@@ -7,6 +7,7 @@ Please do not report security vulnerabilities through public GitHub issues.
 Instead, report them privately to:
 
 - uc3@ucop.edu
+- https://github.com/CDLUC3/.github/security/advisories
 
 Please include:
 
